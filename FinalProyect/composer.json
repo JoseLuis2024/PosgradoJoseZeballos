@@ -1,0 +1,19 @@
+{
+    "name": "usuario/final-proyect",
+    "description": "Proyecto Final UpeaPosgrado",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Controller\\": "src/Controller/",
+            "Model\\": "src/Model/",
+            "View\\": "src/View/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Luis Zeballos",
+            "email": "luis.futuro.01@gmail.com"
+        }
+    ],
+    "require": {}
+}
